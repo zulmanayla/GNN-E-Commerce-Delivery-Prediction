@@ -1,6 +1,6 @@
 # GNN-E-Commerce-Delivery-Prediction
 
-## Project
+## Project Penambangan Data
 **Judul**: Optimasi Prediksi Waktu Pengiriman E-Commerce menggunakan Algoritma GNN studi kasus Brazil 
 
 **Topik**: Prediksi Waktu Pengiriman 
