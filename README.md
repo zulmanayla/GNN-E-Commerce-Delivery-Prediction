@@ -1,4 +1,4 @@
-# GNN-E-Commerce-Delivery-Prediction
+# Optimization of E-Commerce Delivery Time Prediction Using a Graph Neural Network (GNN): A Case Study in Brazil
 
 ## Project Penambangan Data
 **Judul**: Optimasi Prediksi Waktu Pengiriman E-Commerce menggunakan Algoritma GNN studi kasus Brazil 
